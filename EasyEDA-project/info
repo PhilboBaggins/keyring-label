@@ -1,0 +1,33 @@
+{
+  "uuid": "5e5d6eb05272e3b4c5f0b7964965a0be",
+  "path": "Offline/Keyring%20label",
+  "name": "Keyring label",
+  "content": "",
+  "created_at": "2022-04-15 02:52:35",
+  "updated_at": "2022-09-16 17:17:23",
+  "stick": "",
+  "documents": [
+    {
+      "uuid": "4a0fc4476948339cff5305b172afeef1",
+      "puuid": "5e5d6eb05272e3b4c5f0b7964965a0be",
+      "title": "Keyring label PCB",
+      "filename": "Keyring label PCB.json",
+      "description": "",
+      "docType": "3",
+      "master": "",
+      "thumb": "/images/thumb-default.png",
+      "components": {},
+      "BOM": [],
+      "updateTime": 1663312643,
+      "createTime": 1649955155,
+      "histories": [],
+      "created_at": "2022-04-15 02:52:35",
+      "updated_at": "2022-09-16 17:17:23"
+    }
+  ],
+  "sort": [],
+  "title": "Keyring label",
+  "foldername": "Keyring label",
+  "schfilename": "Keyring label.json",
+  "schfilemtime": 1649955155000
+}
