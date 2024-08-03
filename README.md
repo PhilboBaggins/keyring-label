@@ -1,8 +1,6 @@
 # Keyring label
 
-TODO: Write description
-
-TODO: Add photo of completed board
+A small PCB to use as a label. The idea is to laser engrave the text onto the PCB (or use a permanent marker) and then attach it with a keyring or zip tie.
 
 ## Licence
 
